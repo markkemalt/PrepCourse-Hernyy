@@ -1,2 +1,1 @@
-# PrepCourse-Hernyy
-Repositorio de prueba mod2 PrepHenry
+como crear un repositorio y clonarlo desde github a mi escritorio local
